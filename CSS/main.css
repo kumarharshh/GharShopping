@@ -121,6 +121,9 @@ ul {
 .showcase .btn {
   margin-top: 20px;
 }
+.showcase a:hover i{
+  margin-left: 5px;
+}
 
 /* Home Cards */
 
@@ -153,23 +156,30 @@ ul {
   margin-left: 10px;
 }
 
-/* Xbox */
+/* Service */
 
-.xbox {
+.Service {
   width: 100%;
   height: 350px;
   background: url("./xbox.png") no-repeat center center/cover;
   margin-bottom: 20px;
 }
 
-.xbox .content {
+.Service .content {
   width: 40%;
   padding: 50px 0 0 30px;
 }
 
-.xbox p,
+.Service p,
 .carbon p {
   margin: 10px 0 20px;
+}
+
+.Service .Service-ul{
+  list-style: circle;
+  margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 /* Carbon */
