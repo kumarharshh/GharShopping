@@ -187,16 +187,18 @@ ul {
 .carbon {
   height: 350px;
   width: 100%;
-  background: url("./carbon.jpg") no-repeat center center/cover;
+  /* background: url("./carbon.jpg") no-repeat center center/cover; */
 }
 
 .carbon .content {
   width: 55%;
   padding: 100px 0 0 30px;
+  color: #000;
 }
 .content a:hover i {
   margin-left: 5px;
 }
+
 /* Follow */
 
 .follow {
