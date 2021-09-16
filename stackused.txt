@@ -1,0 +1,1 @@
+In this prototype we have used basic level HTML and CSS
