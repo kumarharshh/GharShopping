@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-family: cursive;
   background: #fff;
   color: #000;
   font-size: 15px;
@@ -64,16 +64,6 @@ ul {
 
 /* button */
 
-.menu-btn {
-  cursor: pointer;
-  position: absolute;
-  top: 20px;
-  right: 30px;
-  /* top everytime */
-  z-index: 2;
-  display: none;
-}
-
 .btn {
   cursor: pointer;
   display: inline-block;
@@ -121,7 +111,7 @@ ul {
 .showcase .btn {
   margin-top: 20px;
 }
-.showcase a:hover i{
+.showcase a:hover i {
   margin-left: 5px;
 }
 
@@ -175,7 +165,7 @@ ul {
   margin: 10px 0 20px;
 }
 
-.Service .Service-ul{
+.Service .Service-ul {
   list-style: circle;
   margin-left: 20px;
   padding-top: 10px;
